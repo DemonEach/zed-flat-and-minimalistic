@@ -1,0 +1,7 @@
+id = "flat-and-minimalistic"
+name = "Flat and Minimalistic"
+version = "0.1.0"
+schema_version = 1
+authors = ["Dmitrii Koreneff"]
+description = "Zed port of the Flat and Minimalistic JetBrains theme (dark and gray)."
+repository = "https://github.com/your-name/zed-flat-and-minimalistic"
