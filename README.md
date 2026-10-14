@@ -43,4 +43,4 @@ To follow the system appearance:
 
 ## Credits
 
-Colors are ported from the [Flat Minimalistic Theme](https://plugins.jetbrains.com/) for IntelliJ by Mat Cygert. This is an unofficial port.
+Colors are ported from the [Flat Minimalistic Theme](https://plugins.jetbrains.com/plugin/17749-flat-minimalistic-theme) for IntelliJ by Mat Cygert. This is an unofficial port.
